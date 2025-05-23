@@ -24,7 +24,10 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
+
+
+# Virtual environments
+.venv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
